@@ -1,6 +1,9 @@
 # Description
 This repository covers the **Capstone Project** (Spark Project 'Sparkify') of the Udacity Nanodegree Course _Data Science_.
 
+# Blog Post
+The Capstone Project is documented in this Medium Blog Post: https://medium.com/@t.mw/predicting-churn-with-apache-spark-and-pyspark-ml-429c3ad79670 
+
 ## Installation
 Nothing to install, just run the Jupyter Notebook **Sparkify.ipynb**.
 
